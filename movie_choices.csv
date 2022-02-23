@@ -1,0 +1,101 @@
+,First choice,Second choice,Third choice
+0,Men in Black II ,Shrek (Full-screen) ,The Lost World: Jurassic Park 
+1,Lean on Me ,Swordfish ,The Silence of the Lambs 
+2,Lean on Me ,The Silence of the Lambs ,Willy Wonka & the Chocolate Factory 
+3,Swordfish ,I ,Men in Black II 
+4,Swordfish ,Shrek (Full-screen) ,The Silence of the Lambs 
+5,The Silence of the Lambs ,Men in Black II ,Swordfish 
+6,Men in Black II ,Lean on Me ,Shrek (Full-screen) 
+7,Men in Black II ,The Silence of the Lambs ,Lean on Me 
+8,The Lost World: Jurassic Park ,The Silence of the Lambs ,Shrek (Full-screen) 
+9,The Silence of the Lambs ,I ,Swordfish 
+10,Swordfish ,Lean on Me ,Lean on Me 
+11,Mean Girls ,Swordfish ,Men in Black II 
+12,The Lost World: Jurassic Park ,Swordfish ,Men in Black II 
+13,The Silence of the Lambs ,Shrek (Full-screen) ,Say Anything 
+14,Men in Black II ,I ,Lean on Me 
+15,Shrek (Full-screen) ,The Silence of the Lambs ,I 
+16,Shrek (Full-screen) ,Swordfish ,Men in Black II 
+17,Men in Black II ,Shrek (Full-screen) ,XXX: Special Edition 
+18,Swordfish ,Men in Black II ,Lean on Me 
+19,The Silence of the Lambs ,Men in Black II ,Shrek (Full-screen) 
+20,The Lost World: Jurassic Park ,Men in Black II ,Lean on Me 
+21,The Silence of the Lambs ,Men in Black II ,The Lost World: Jurassic Park 
+22,Men in Black II ,The Silence of the Lambs ,Swordfish 
+23,Swordfish ,Swordfish ,I 
+24,Lean on Me ,Shrek (Full-screen) ,Lean on Me 
+25,Shrek (Full-screen) ,The Silence of the Lambs ,Swordfish 
+26,The Silence of the Lambs ,The Lost World: Jurassic Park ,Shrek (Full-screen) 
+27,I ,The Exorcist ,The Silence of the Lambs 
+28,Men in Black II ,Shrek (Full-screen) ,Lean on Me 
+29,Lean on Me ,Swordfish ,Shrek (Full-screen) 
+30,Shrek (Full-screen) ,I ,The Lost World: Jurassic Park 
+31,Entrapment ,The Silence of the Lambs ,Shrek (Full-screen) 
+32,I ,Willy Wonka & the Chocolate Factory ,I 
+33,Lean on Me ,The Silence of the Lambs ,Shrek (Full-screen) 
+34,Men in Black II ,The Silence of the Lambs ,The Exorcist 
+35,Shrek (Full-screen) ,The Lost World: Jurassic Park ,Say Anything 
+36,Swordfish ,The Lost World: Jurassic Park ,Unforgiven 
+37,Lean on Me ,I ,Lean on Me 
+38,The Silence of the Lambs ,Shrek (Full-screen) ,I 
+39,Mean Girls ,Lean on Me ,Shrek (Full-screen) 
+40,Men in Black II ,Swordfish ,The Lost World: Jurassic Park 
+41,The Lost World: Jurassic Park ,Shrek (Full-screen) ,Men in Black II 
+42,I ,Swordfish ,The Exorcist 
+43,Swordfish ,The Silence of the Lambs ,The Silence of the Lambs 
+44,I ,The Silence of the Lambs ,Shrek (Full-screen) 
+45,Shrek (Full-screen) ,Swordfish ,XXX: Special Edition 
+46,Shrek (Full-screen) ,Shrek (Full-screen) ,Shrek (Full-screen) 
+47,Men in Black II ,I ,The Exorcist 
+48,Shrek (Full-screen) ,Lean on Me ,The Silence of the Lambs 
+49,The Lost World: Jurassic Park ,Swordfish ,Lean on Me 
+50,The Lost World: Jurassic Park ,Lean on Me ,Men in Black II 
+51,The Silence of the Lambs ,Swordfish ,Swordfish 
+52,Swordfish ,Shrek (Full-screen) ,Shrek (Full-screen) 
+53,Swordfish ,Swordfish ,The Silence of the Lambs 
+54,Lean on Me ,The Silence of the Lambs ,Lean on Me 
+55,I ,Swordfish ,The Silence of the Lambs 
+56,Shrek (Full-screen) ,I ,Swordfish 
+57,I ,Say Anything ,Lean on Me 
+58,The Lost World: Jurassic Park ,Lean on Me ,Swordfish 
+59,Lean on Me ,Swordfish ,Swordfish 
+60,Men in Black II ,Men in Black II ,Willy Wonka & the Chocolate Factory 
+61,I ,Lean on Me ,The Silence of the Lambs 
+62,Mean Girls ,Shrek (Full-screen) ,The Silence of the Lambs 
+63,Men in Black II ,I ,The Lost World: Jurassic Park 
+64,The Silence of the Lambs ,Men in Black II ,The Lost World: Jurassic Park 
+65,The Lost World: Jurassic Park ,Swordfish ,Shrek (Full-screen) 
+66,Shrek (Full-screen) ,I ,Shrek (Full-screen) 
+67,Men in Black II ,Men in Black II ,The Silence of the Lambs 
+68,Men in Black II ,Swordfish ,I 
+69,The Lost World: Jurassic Park ,Shrek (Full-screen) ,Shrek (Full-screen) 
+70,Lean on Me ,Willy Wonka & the Chocolate Factory ,Swordfish 
+71,Lean on Me ,The Silence of the Lambs ,Unforgiven 
+72,Lean on Me ,The Lost World: Jurassic Park ,Unforgiven 
+73,I ,The Lost World: Jurassic Park ,Swordfish 
+74,Lean on Me ,Lean on Me ,Lost in Translation 
+75,I ,XXX: Special Edition ,Men in Black II 
+76,Entrapment ,The Lost World: Jurassic Park ,The Silence of the Lambs 
+77,The Silence of the Lambs ,I ,Swordfish 
+78,I ,Mean Girls ,I 
+79,Men in Black II ,Lost in Translation ,Swordfish 
+80,Men in Black II ,I ,The Silence of the Lambs 
+81,The Lost World: Jurassic Park ,Lean on Me ,Swordfish 
+82,Lost in Translation ,The Silence of the Lambs ,XXX: Special Edition 
+83,The Silence of the Lambs ,Entrapment ,Lean on Me 
+84,I ,I ,Lost in Translation 
+85,Swordfish ,The Silence of the Lambs ,Swordfish 
+86,Men in Black II ,Swordfish ,Lean on Me 
+87,Men in Black II ,Swordfish ,Say Anything 
+88,The Lost World: Jurassic Park ,Swordfish ,I 
+89,I ,The Silence of the Lambs ,Lean on Me 
+90,The Lost World: Jurassic Park ,Lean on Me ,Shrek (Full-screen) 
+91,Men in Black II ,The Silence of the Lambs ,Men in Black II 
+92,The Silence of the Lambs ,The Lost World: Jurassic Park ,Lean on Me 
+93,Shrek (Full-screen) ,The Silence of the Lambs ,Lean on Me 
+94,The Lost World: Jurassic Park ,Swordfish ,Swordfish 
+95,The Silence of the Lambs ,Men in Black II ,Lean on Me 
+96,The Lost World: Jurassic Park ,Unforgiven ,Shrek (Full-screen) 
+97,Men in Black II ,The Silence of the Lambs ,Lean on Me 
+98,The Lost World: Jurassic Park ,Entrapment ,Swordfish 
+99,The Lost World: Jurassic Park ,The Silence of the Lambs ,Swordfish 
